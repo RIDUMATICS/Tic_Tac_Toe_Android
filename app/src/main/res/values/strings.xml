@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="one_player">ONE PLAYER</string>
+
+    <string name="title_activity_one_player_option">onePlayerOption</string>
+    <string name="reset">Reset</string>
+    <string name="two_player">two players</string>
+</resources>
